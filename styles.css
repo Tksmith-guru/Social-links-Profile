@@ -1,0 +1,89 @@
+body {
+	background-color: hsl(0, 0%, 8%);
+	font-family: "Inter", sans-serif;
+}
+
+#big-bro {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+	height: 100%;
+	margin-top: 30px;
+}
+
+div.container {
+	display: flex;
+	flex-direction: column;
+	width: 29%;
+	height: 500px;
+	border-radius: 20px;
+	background-color: hsl(0, 0%, 12%);
+	align-items: center;
+	justify-content: center;
+}
+
+div.buttons {
+	display: flex;
+	flex-direction: column;
+}
+
+img {
+	width: 80px;
+	height: 80px;
+	border-radius: 50%;
+}
+
+h1 {
+	font-weight: normal;
+	color: hsl(0, 0%, 100%);
+	margin-bottom: 5px;
+}
+
+h2 {
+	font-weight: normal;
+	font-size: 14px;
+	color: hsl(75, 94%, 57%);
+	margin-top: 0;
+}
+
+p {
+	color: hsl(0, 0%, 100%);
+	font-weight: normal;
+	font-size: 14px;
+}
+
+button {
+	background-color: hsl(0, 0%, 20%);
+	color: hsl(0, 0%, 100%);
+	margin: 5px 5px 5px 5px;
+	font-weight: bold;
+	width: 280px;
+	height: 40px;
+	border: none;
+	border-radius: 10px;
+}
+
+span#color {
+	width: 90px;
+	height: 30px;
+	background-color: black;
+}
+
+.btn1:hover {
+	background-color: hsl(75, 94%, 57%);
+	cursor: pointer;
+	cursor: black;
+	color: black;
+}
+
+@media only screen and (max-width:1020px) {
+	button {
+		width: 250px;
+	}
+
+div.container {
+	width: 32%;
+}
+}
+
