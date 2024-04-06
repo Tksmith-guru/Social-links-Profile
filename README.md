@@ -15,7 +15,8 @@
 
         MOBILE DESIGN
         
-![MOBILE DSG](https://github.com/Tksmith-guru/Social-links-Profile/assets/122574849/1d2d9023-6b10-4abe-b865-319672265d3a)
+![SOCIAL DSG](https://github.com/Tksmith-guru/Social-links-Profile/assets/122574849/1f0b032d-c5bf-49b5-8276-426c62ad4e47)
+
 
 
         DESKTOP DESIGN
