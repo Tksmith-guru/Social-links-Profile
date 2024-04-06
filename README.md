@@ -14,11 +14,14 @@
         SCREENSHOT
 
         MOBILE DESIGN
-        ![MOBILE DSG](https://github.com/Tksmith-guru/Social-links-Profile/assets/122574849/adfa2b61-a7bd-49dc-85cb-d700296939a2)
+        
+![MOBILE DSG](https://github.com/Tksmith-guru/Social-links-Profile/assets/122574849/1d2d9023-6b10-4abe-b865-319672265d3a)
+
 
         DESKTOP DESIGN
 
-        ![MOBILE DESIGN](https://github.com/Tksmith-guru/Social-links-Profile/assets/122574849/3ee1c5a6-b577-44b1-b9ae-82df208ba0d8)
+![DESKTOP DSG](https://github.com/Tksmith-guru/Social-links-Profile/assets/122574849/6cc4d0b7-560b-42e6-9d44-8e177aaaab8f)
+
 
         LINKS
 
